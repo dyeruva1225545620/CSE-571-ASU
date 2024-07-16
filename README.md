@@ -1,3 +1,9 @@
+# Comparing the Conversion Rate of True Online SARSA vs Approximate Q Agent
+
+# Goal of this Project
+This project aims to compare the reinforcement learning algorithms True Online SARSA and Q-Learning and prove that True Online SARSA converges faster than Q-Learning. We will be using a pacman game as our environment and will test both algorithms with different environment sizes and use the results to reach our goal.
+
+
 ## Prerequisites
 
 Have the necessary environment setup as needed as individual project 4. This project is an extension of Project 4. Additional packages to be installed are pandas, numpy, tqdm, openpyxl and scipy. All of them can be installed by a simple `pip install <package_name>`
